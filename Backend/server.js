@@ -21,7 +21,7 @@ const PORT = process.env.PORT || 3000;
 
 // 1. Middleware
 // ✅ CORS: Allow requests from ANY origin (*)
-app.use(cors({ origin: "*" }));
+app.use(cors({ origin: "https://teal-alpaca-23bb24.netlify.app" }));
 app.use(express.json());
 app.use(express.urlencoded({ extended: true }));
 

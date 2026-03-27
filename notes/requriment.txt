@@ -1,0 +1,11 @@
+See Zomato phone app
+Try to make like that
+Use price filters
+Use red green symbols for non veg and veg
+Use spice symbols using chilli
+Now there should ne a menu selecting bar with options like
+Coffeee
+Main course
+Pasta…. Depends n restaurant
+When people click pizza then pizza page should open with a light hue background
+When people click coffee then coffee page should open with light hue.

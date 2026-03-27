@@ -24,7 +24,7 @@ const PORT = process.env.PORT || 3000;
 const allowedOrigins = [
   "http://localhost:3000",
   "http://localhost:5173",
-  "https://stunner-cafe-kol.netlify.app",
+  "https://stunner-cafe.vercel.app",
 ];
 
 app.use(cors({ origin: allowedOrigins }));
